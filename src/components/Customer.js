@@ -1,5 +1,5 @@
 import React from "react";
-
+// 테스트
 class Customer extends React.Component {
   render() {
     return (
